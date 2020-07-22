@@ -1,0 +1,16 @@
+cnn.com
+foxnews.com
+yahoo.com
+wikipedia.org
+tmz.com
+egotastic.com
+huffingtonpost.com
+slate.com
+arstechnica.com
+walla.co.il
+ynet.co.il
+globes.co.il
+themarker.com
+slashdot.org
+wordpress.com
+wordpress.org
